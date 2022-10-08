@@ -21,9 +21,11 @@ yarn add -D vite-plugin-replace-module
 ##### vite.config.js
 
 ```js
+import VitePluginReplaceModule from "vite-plugin-replace-module";
+
 export default {
   plugins: [
-    new VitePluginReplaceModule({
+    VitePluginReplaceModule({
       rules: [
         {
           originModule: "npm-a",
