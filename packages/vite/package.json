@@ -4,7 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
-  "author": "",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HQ-Lin/replace-module-plugins.git"
+  },
+  "homepage": "https://github.com/HQ-Lin/replace-module-plugins/blob/main/packages/vite/README.md",
+  "bugs": {
+    "url": "https://github.com/HQ-Lin/replace-module-plugins/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": ["vite"],
+  "author": "Kyrielin",
   "license": "MIT"
 }

@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@github.com:HQ-Lin/replace-module-plugins.git"
   },
-  "homepage": "https://github.com/HQ-Lin/replace-module-plugins/blob/main/README.md",
+  "homepage": "https://github.com/HQ-Lin/replace-module-plugins/blob/main/packages/webpack/README.md",
   "bugs": {
     "url": "https://github.com/HQ-Lin/replace-module-plugins/issues"
   },
