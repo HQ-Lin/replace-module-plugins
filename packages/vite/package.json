@@ -1,8 +1,9 @@
 {
   "name": "vite-plugin-replace-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {},
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
